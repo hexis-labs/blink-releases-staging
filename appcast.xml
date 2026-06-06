@@ -1,7 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatriculata.com/xml/rss/2.0/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatriculata.com/xml/rss/2.0/" version="2.0">
     <channel>
         <title>Blink</title>
         <item/>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sat, 06 Jun 2026 08:06:16 +0530</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="Blink-1.0.0-staging.dmg" length="15956587" type="application/octet-stream" sparkle:edSignature="G5OU27saKBdmYlKJx3yIFSGCSGLMXKzZyrzZP3Mmr0MN2kUZf0NoPHO03CvstLUedpa3b8OcI0POr6MPTPCsBQ=="/>
+        </item>
     </channel>
 </rss>
