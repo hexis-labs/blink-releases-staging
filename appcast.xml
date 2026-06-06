@@ -5,6 +5,14 @@
         <item/>
         <item>
             <title>1.0.0</title>
+            <pubDate>Sat, 06 Jun 2026 08:50:37 +0530</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="Blink-1.0.0-staging.dmg" length="16858845" type="application/octet-stream" sparkle:edSignature="urr0z3SgbZDjgCABAXAJXw9rE0Kx9823ZxgsmlBE2uhbupixTiy17GeUt5FfHsoM/MZnD7HVlGK5hkGs5cyhDw=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Sat, 06 Jun 2026 08:27:38 +0530</pubDate>
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
@@ -18,14 +26,6 @@
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="Blink-1.0.0-staging.dmg" length="16858937" type="application/octet-stream" sparkle:edSignature="Ji6e9O4qVbdLxqhaJrDZg7zA0/lLo0Qc49maml56mQMFz8MYccHE8fnZOeVYIlAeWcr80c2aXpDY5y+46CE5Ag=="/>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Sat, 06 Jun 2026 08:06:16 +0530</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="Blink-1.0.0-staging.dmg" length="15956587" type="application/octet-stream" sparkle:edSignature="G5OU27saKBdmYlKJx3yIFSGCSGLMXKzZyrzZP3Mmr0MN2kUZf0NoPHO03CvstLUedpa3b8OcI0POr6MPTPCsBQ=="/>
         </item>
     </channel>
 </rss>
