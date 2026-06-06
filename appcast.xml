@@ -5,6 +5,14 @@
         <item/>
         <item>
             <title>1.0.0</title>
+            <pubDate>Sat, 06 Jun 2026 08:27:38 +0530</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="Blink-1.0.0-staging.dmg" length="16859029" type="application/octet-stream" sparkle:edSignature="Z1m5hOp5o+zasQ32bGC5x82NP0hGBrp7UXzFn+dBFOKWkAZDKQQiBLAnCtCB+Q2KUNBasOSyFrrocvujE+buDg=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Sat, 06 Jun 2026 08:17:36 +0530</pubDate>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
