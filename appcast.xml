@@ -5,6 +5,14 @@
         <item/>
         <item>
             <title>1.0.0</title>
+            <pubDate>Sat, 06 Jun 2026 18:13:49 +0530</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/hexis-labs/blink-releases-staging/releases/download/v1.0.0-build.14-staging/Blink-1.0.0-staging.dmg" length="16872064" type="application/octet-stream" sparkle:edSignature="bQLXhmd4fE7jQKu/85byBgTcYrWUkPZ5k31MOz/f1Oj5ABrqUJX67HeuTQ/lECe4XDkgpQQIces09Q+ba4QoCQ=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Sat, 06 Jun 2026 18:10:35 +0530</pubDate>
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
@@ -18,14 +26,6 @@
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/hexis-labs/blink-releases-staging/releases/download/v1.0.2-build.11-staging/Blink-1.0.2-staging.dmg" length="16858798" type="application/octet-stream" sparkle:edSignature="0Y512hshKMGWlAl0FLEUQdgv2abfe6Os4vP9Z1RdigIQqL22Sdw1Dx5AuitGdHg1rAJ6Ibr7hk/fhoeUY+90AA=="/>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Sat, 06 Jun 2026 17:33:02 +0530</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/hexis-labs/blink-releases-staging/releases/download/v1.0.1-build.10-staging/Blink-1.0.1-staging.dmg" length="16858789" type="application/octet-stream" sparkle:edSignature="7sfd3nHETvYZ/MZiiWHjTVgd3/EYyc4GjQB40lOv1kkkWyaiPnZjIz3PMUrECkaypzDu5hLOpjt+zaf0X8vYDQ=="/>
         </item>
     </channel>
 </rss>
