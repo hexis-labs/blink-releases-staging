@@ -8,23 +8,8 @@
             <sparkle:version>15</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/hexis-labs/blink-releases-staging/releases/download/v1.0.1-build.15-staging/Blink-1.0.1-staging.dmg" length="16872270" type="application/octet-stream" sparkle:edSignature="DxP4oPvIVRdRxBZEDQ+6nkUlXCzXKxGnKfhlgjxj9rLR8mn/VRel7lNpX1nw9Mg2ohOdjGwABf31INFgJL1vDg=="/>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Sat, 06 Jun 2026 18:13:49 +0530</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/hexis-labs/blink-releases-staging/releases/download/v1.0.0-build.14-staging/Blink-1.0.0-staging.dmg" length="16872064" type="application/octet-stream" sparkle:edSignature="bQLXhmd4fE7jQKu/85byBgTcYrWUkPZ5k31MOz/f1Oj5ABrqUJX67HeuTQ/lECe4XDkgpQQIces09Q+ba4QoCQ=="/>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Sat, 06 Jun 2026 18:10:35 +0530</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/hexis-labs/blink-releases-staging/releases/download/v1.0.0-build.13-staging/Blink-1.0.0-staging.dmg" length="16872072" type="application/octet-stream" sparkle:edSignature="Vsevg/GiS7C8FqLozFbFJbgZ/g9aumr90+b1ezE3nrwoCkq5Lvl4owZ/IUxtfx0bPvYwqCalDIof2k0vdI6FDQ=="/>
         </item>
     </channel>
 </rss>
