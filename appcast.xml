@@ -3,12 +3,12 @@
     <channel>
         <title>Blink</title>
         <item>
-            <title>1.0.0-beta.12</title>
-            <pubDate>Thu, 11 Jun 2026 08:51:46 +0530</pubDate>
-            <sparkle:version>32</sparkle:version>
-            <sparkle:shortVersionString>1.0.0-beta.12</sparkle:shortVersionString>
+            <title>1.0.0-beta.13</title>
+            <pubDate>Thu, 11 Jun 2026 08:58:01 +0530</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.0.0-beta.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/hexis-labs/blink-releases-staging/releases/download/v1.0.0-beta.12/Blink-1.0.0-beta.12.dmg" length="17873394" type="application/octet-stream" sparkle:edSignature="ArpQiCHaVtjyrLRA+Qx/NBuUt2J4li1gGnyx/B8PZZg+28rfm8PRPycsQAip4cwzA69mMY5cX3HI6/UMqY/LCA=="/>
+            <enclosure url="https://github.com/hexis-labs/blink-releases-staging/releases/download/v1.0.0-beta.13/Blink-1.0.0-beta.13.dmg" length="17873441" type="application/octet-stream" sparkle:edSignature="UTZOS/AK+E0XaU3p60yoRRFFvs6Gsa2J9vJpov4dDr58tT9SAV1CC2ymcog1RHMFGCe0P2E1HoD0r/4LdMOcBg=="/>
         </item>
     </channel>
 </rss>
