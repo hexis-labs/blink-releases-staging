@@ -1,15 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Blink</title>
+        <title>Blink Staging</title>
         <item>
-            <title>1.0.4-beta.1</title>
-            <pubDate>Fri, 26 Jun 2026 00:37:04 +0530</pubDate>
-            <sparkle:minimumAutoupdateVersion>44</sparkle:minimumAutoupdateVersion>
-            <sparkle:version>46</sparkle:version>
-            <sparkle:shortVersionString>1.0.4-beta.1</sparkle:shortVersionString>
+            <title>1.0.4-beta.2</title>
+            <pubDate>Fri, 26 Jun 2026 10:18:29 +0530</pubDate>
+            <sparkle:minimumAutoupdateVersion>47</sparkle:minimumAutoupdateVersion>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>1.0.4-beta.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/hexis-labs/blink-releases-staging/releases/download/v1.0.4-beta.1/Blink-1.0.4-beta.1.dmg" length="18222004" type="application/octet-stream" sparkle:edSignature="4KZYeJCy9qW6qPGo1Be8QQz/RgF+1R9wJsoqG0s8rI1roy0MKrOpShvy0SvRSQYxTjDFTseKcOCOEy2FmK7XCw=="/>
+            <enclosure url="https://github.com/hexis-labs/blink-releases-staging/releases/download/v1.0.4-beta.2/Blink-Staging-1.0.4-beta.2.dmg" length="18222103" type="application/octet-stream" sparkle:edSignature="5+5M0eHXU/l4DADboQOepaqmCZE/hnnApxl0gUdDEEE54ryoigVGMdlQXfD79nWXO0ZYNf1jMcqd4Tj+C/PrAQ=="/>
         </item>
     </channel>
 </rss>
