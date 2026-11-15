@@ -3,14 +3,14 @@
     <channel>
         <title>Blink Staging</title>
         <item>
-            <title>1.2.0-beta.3</title>
-            <pubDate>Tue, 10 Nov 2026 14:59:57 +0530</pubDate>
+            <title>1.2.0-beta.4</title>
+            <pubDate>Sun, 15 Nov 2026 23:24:53 +0530</pubDate>
             <sparkle:minimumAutoupdateVersion>58</sparkle:minimumAutoupdateVersion>
-            <sparkle:version>61</sparkle:version>
-            <sparkle:shortVersionString>1.2.0-beta.3</sparkle:shortVersionString>
+            <sparkle:version>62</sparkle:version>
+            <sparkle:shortVersionString>1.2.0-beta.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/hexis-labs/blink-releases-staging/releases/download/v1.2.0-beta.3/Blink-Staging-1.2.0-beta.3.dmg" length="28843131" type="application/octet-stream" sparkle:edSignature="/XlOLfNg1E4zlNi3Q952OcOS1FMw5PFqGMSOfCvZ/yBNdulukVb8Oxu8jcZS4g7h14NU9+bCpMD7c2Gb3hanCw=="/>
+            <enclosure url="https://github.com/hexis-labs/blink-releases-staging/releases/download/v1.2.0-beta.4/Blink-Staging-1.2.0-beta.4.dmg" length="28849218" type="application/octet-stream" sparkle:edSignature="Ywmkgi6I1NxOL4FnJcajRK7Xqn+dDTJYWWgOH+aRj3TLoy8WNJ5c6Yx0dAm8bkudNml+9w4+27hSEwHsSvFFAw=="/>
         </item>
     </channel>
 </rss>
